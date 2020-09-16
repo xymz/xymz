@@ -11,7 +11,7 @@
 
 ### StyleShare, Inc (https://styleshare.kr)
 
-- Backend programmer (2018 - )
+- Backend programmer (2018 - 2020)
 
 ### Megabrain, Inc (https://shipget.co.kr)
 
