@@ -1,30 +1,34 @@
 # 강성용
 
-- [https://xym.kr/](https://xym.kr/)
 - [https://github.com/xymz](https://github.com/xymz)
-- [https://www.facebook.com/xympl](https://www.facebook.com/xympl)
-- [https://www.linkedin.com/in/sungyong-kang-659a5550/](https://www.linkedin.com/in/sungyong-kang-659a5550/)
+- [Facebook](https://www.facebook.com/xympl)
+- [Linkedin](https://www.linkedin.com/in/sungyong-kang-659a5550/)
 - xym@lunant.net
 - +821026968333
 
 ## 경력
 
-### StyleShare, Inc (https://styleshare.kr)
+### [LINE Plus/LINE Next](https://blockchain.line.biz/) 
+
+- Backend programmer (2020 - Present)
+
+### [StyleShare, Inc](https://styleshare.kr) 
 
 - Backend programmer (2018 - 2020)
 
-### Megabrain, Inc (https://shipget.co.kr)
+### [Megabrain, Inc](https://shipget.co.kr) 
 
 - CTO (2017 - 2018)
 
-### Spoqa (https://spoqa.com)
+### [Spoqa](https://spoqa.com) 
 
 - Full stack programmer (2013 - 2017)
+
 ### Vanilla Breeze 
 
 - Backend programmer (2012 - 2013)
 
-### Simplex Internet (https://www.cafe24.com)
+### [Simplex Internet](https://www.cafe24.com) 
 
 - Backend programmer (2011 - 2012)
 
