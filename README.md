@@ -4,7 +4,7 @@
 - [Facebook](https://www.facebook.com/xympl)
 - [Linkedin](https://www.linkedin.com/in/sungyong-kang-659a5550/)
 - xym@lunant.net
-- +821026968333
+- +821073968444
 
 ## 경력
 
