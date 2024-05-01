@@ -31,10 +31,3 @@
 ### [Simplex Internet](https://www.cafe24.com) 
 
 - Backend programmer (2011 - 2012)
-
-## 기고
-
-- [CodeDeploy의 자잘한 버그들](https://www.notion.so/CodeDeploy-bed1d18e06374a0caa4f2d0292ffef07?v=564771b4f3b7430b8bf53a262363e83f)
-- [생산성, 자본주의, IT](https://www.notion.so/IT-54ce14e520bb4459b5b7b21842f47a02?v=564771b4f3b7430b8bf53a262363e83f)
-- [docker the cloud](https://spoqa.github.io/2013/11/22/docker-the-cloud.html)
-
