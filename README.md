@@ -1,7 +1,6 @@
 # 강성용
 
 - [https://github.com/xymz](https://github.com/xymz)
-- [Facebook](https://www.facebook.com/xympl)
 - [Linkedin](https://www.linkedin.com/in/sungyong-kang-659a5550/)
 - xym@lunant.net
 - +821073968444
