@@ -9,7 +9,7 @@
 
 ### [LINE Plus/LINE Next](https://blockchain.line.biz/) 
 
-- Backend programmer (2020 - Present)
+- Backend programmer (2020 - 2024)
 
 ### [StyleShare, Inc](https://styleshare.kr) 
 
