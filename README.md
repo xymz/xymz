@@ -3,7 +3,6 @@
 - [https://github.com/xymz](https://github.com/xymz)
 - [Linkedin](https://www.linkedin.com/in/sungyong-kang-659a5550/)
 - xym@lunant.net
-- +821073968444
 
 ## 경력
 
